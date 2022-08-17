@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Alfred 👋
+🧑🏻‍💻 Currently a passionate young developer, soon to be computer science student (2023)
+<br>
+<br>
+🤖 Developed numerous Robotic Process Automation (RPA) programs via UiPath to automate repetitve businesses processes
+<br>
+<br>
+Ξ Participated and developed several smart contracts for NFT projects in the Ethereum and Matic Main Network
 
-<!--
-**afwh24/afwh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+- HTML, CSS
+- JavaScript (Node.js, Express Handlebars, ReactJS)
+- Solidity
+- Microsoft Office (Excel, Words, PowerPoint)
+- UiPath Studio & Robot
+- Google Firebase
+- Python (Flask)
+- MySQL
+- C# (ASP.NET)
+- Kotlin (Android Native App Development)
+- Swift (IOS Native App Development)
+- Ionic (Hybrid App Development)
+- Flutter
