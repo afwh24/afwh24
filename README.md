@@ -1,5 +1,5 @@
 # Hi there, I'm Alfred 👋
-🧑🏻‍💻 Currently a passionate young developer, soon to be computer science student (2023)
+🧑🏻‍💻 Currently Computer Science Student
 <br>
 <br>
 🤖 Developed numerous Robotic Process Automation (RPA) programs via UiPath to automate repetitve businesses processes
