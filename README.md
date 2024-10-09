@@ -1,5 +1,5 @@
 # Hi there, I'm Alfred 👋
-🧑🏻‍💻 Currently Computer Science Student
+🧑🏻‍💻 Currently Computer Science Student at NTU Singapore
 <br>
 <br>
 🤖 Developed numerous Robotic Process Automation (RPA) programs via UiPath to automate repetitve businesses processes
