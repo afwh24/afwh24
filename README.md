@@ -94,5 +94,4 @@ Built and deployed UiPath RPA automation solutions to optimize operational workf
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/afwh/
