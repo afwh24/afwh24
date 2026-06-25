@@ -1,6 +1,6 @@
 # Hi, I'm Alfred 👋
 
-Final-year Computer Science student at Nanyang Technological University (NTU), Singapore (CGPA 4.49/5.00), specialising in AI Engineering and applied NLP. I enjoy building practical, production-grade AI systems — large-scale data pipelines, LLM evaluation frameworks, synthetic data generation systems, and legal AI infrastructure.
+Final-year Computer Science student at Nanyang Technological University (NTU), Singapore, specialising in AI Engineering and applied NLP. I enjoy building practical, production-grade AI systems — large-scale data pipelines, LLM evaluation frameworks, synthetic data generation systems, and legal AI infrastructure.
 
 Currently open to **internship opportunities from August 2026** and **full-time AI Engineering roles from January 2027**.
 
