@@ -72,7 +72,7 @@ Independently built four end-to-end AI engineering pipelines in Python:
 ## 📫 Get In Touch
 
 - LinkedIn: [linkedin.com/in/afwh](https://www.linkedin.com/in/afwh)
-- Email: [afwh24@gmail.com]
+- Email: afwh24@gmail.com
 
 ---
 
